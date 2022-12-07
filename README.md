@@ -6,8 +6,12 @@ A python-based machine learning text classification project created to classify 
 
 ## Contents
 
+#### Reports :
+ A folder containg a full thesis report on the project and a published academic paper on the project.
+
 #### Data :
  A folder containg three 1000 post single-platform datasets, and the 3000 post multi-platform dataset.
+ Full dataset published for public use: https://figshare.com/articles/dataset/Labelled_Hate_Speech_Detection_Dataset_/19686954
 
 #### WebScrapers :
  A folder containing three .py files for scraping the Reddit, 4chan and Twitter social media platforms.
