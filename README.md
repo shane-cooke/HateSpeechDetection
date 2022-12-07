@@ -67,7 +67,7 @@ python3 BERT.py
 ```bash
 streamlit run HateChecker.py
 ```
-![hatecheckinit](/uploads/d48ea30c78be2fb08a1ee1f0839bb4cf/hatecheckinit.png)
+![hatecheckinit](/120044490/206254911-e7dded2e-e185-4853-8ff0-d5d13326e9b9.png)
 
 ## Authors and Acknowledgements
 #### Author: Shane Cooke (17400206)
